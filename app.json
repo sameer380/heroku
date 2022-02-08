@@ -1,9 +1,7 @@
 {
-  "name": "libDrive",
+  "name": "samdrive",
   "description": "libDrive is a Google Drive media library manager and indexer, similar to Plex, that organizes Google Drive media to offer an intuitive and user-friendly experience.",
-  "keywords": [
-  ],
-  "website": "https://github.com/sameer380/libDrive",
+  "website": "https://github.com/libDrive/libDrive",
   "repository": "https://github.com/sameer380/libDrive",
   "logo": "https://avatars2.githubusercontent.com/u/75073550?v=4",
   "success_url": "/",
@@ -25,7 +23,7 @@
     },
     "PINGER": {
       "description": "The pinger pings your app every 15 minutes to prevent it from sleeping. Input the URL of your app (e.g. https://APP_NAME.herokuapp.com). Leave empty if you don't want to use the pinger",
-      "value": "https://APP_NAME.herokuapp.com",
+      "value": "https://sameer.herokuapp.com",
       "required": false
     },
     "PINGER_INTERVAL": {
